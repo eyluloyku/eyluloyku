@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  
  🔭 I’m currently working at Procter & Gamble as Information Technology Intern
  
- 🌱 I’m currently learning Mobile Computing and Data Structures
+ 🌱 I’m currently learning Mobile Application Development and Database Systems
 
  📫 How to reach me: e.oyku.sen@gmail.com
  
