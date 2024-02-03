@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
  👩‍💻 I'm a junior CS student at Sabancı University
  
- 🔭 I’m currently working at Procter & Gamble as Information Technology Intern
+ 🔭 I’m currently working at Siemens as Part Time Software Engineer Intern
  
- 🌱 I’m currently learning Mobile Application Development and Database Systems
+ 🌱 I’m currently learning Deep Learning and Artificial Intelligence
 
  📫 How to reach me: e.oyku.sen@gmail.com
  
