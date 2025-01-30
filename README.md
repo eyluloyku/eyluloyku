@@ -13,11 +13,11 @@ Here are some ideas to get you started:
  💬 Ask me about ...
 -->
 
- 👩‍💻 I'm a junior CS student at Sabancı University
+ 👩‍💻 I'm a CS graduate from Sabancı University
  
- 🔭 I’m currently working at Siemens as Part Time Software Engineer Intern
+ 🔭 I’m currently working at Prometeia as Machine Learning Engineer Intern
  
- 🌱 I’m currently learning Deep Learning and Artificial Intelligence
+ 🌱 I’m currently learning Quantum Computing
 
  📫 How to reach me: e.oyku.sen@gmail.com
  
